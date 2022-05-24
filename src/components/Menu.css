@@ -1,0 +1,49 @@
+
+.Gammunity_logo{
+    margin-top: 20px;
+    width:200px !important; 
+    height: 100px;
+  }
+  .Menu{
+      width: 300px;
+      float: left;
+  }
+  .side-bar {
+      margin-left: 10px;
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column;
+    border-right: 1px solid;
+    border-radius: 0;
+    border-color: #FFA400;
+    background-color: rgb(255, 255, 255);
+    transition: 0.8s ease;
+    position: fixed;
+  }
+  
+  .toggle-menu {
+    height: 50px;
+    border-top-right-radius: 10rem;
+    border-bottom-right-radius: 9rem;
+    width: 10px;
+    position: absolute;
+    outline: none;
+    z-index: 1;
+    background-color: #FFA400 ; 
+    border-color: #FFA400;
+    border-left: 0;
+  }
+  
+  a {
+    text-decoration-line: none;
+    color: rgb(87, 87, 87) !important;
+    line-height: 250%;
+  }
+  
+  ul{
+    list-style:none;
+    font-size: 32px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }

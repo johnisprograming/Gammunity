@@ -1,0 +1,71 @@
+.rank_box{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.rank_title{
+  margin-top: 100px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+#content {
+  padding: 10px;
+  background: #FFA400;
+}
+
+#rank-list a {
+  color: yellow;
+  text-decoration: none;
+}
+
+#rank-list a:hover {
+  text-decoration: underline;
+}
+
+#rank-list {
+  overflow: hidden;
+  text-align: left;
+  width: 900px;
+  height: 100px;
+  margin: 0;
+}
+
+#rank-list dt {
+  display: none;
+}
+
+#rank-list dd {
+  position: relative;
+  margin: 0 auto;
+}
+
+#rank-list ol {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#rank-list li {
+  height: 100px;
+  line-height: 100px;
+}
+
+.gametitle{
+  width: 900px;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.gameImage{
+  width: 150px;
+  height: 100px;
+  margin-right: 20px;
+  float: left;
+}

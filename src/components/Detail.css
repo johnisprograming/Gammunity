@@ -1,0 +1,16 @@
+.detail{
+    width: 800px;
+    margin-top: 30px;
+}
+.gameImg{
+    width: 600px;
+    height: 400px;
+}
+.info{
+    width: 600px;
+    height: 400px;
+}
+th{
+    background: black;
+    color: yellow;
+}

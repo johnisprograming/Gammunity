@@ -1,0 +1,187 @@
+
+.p_story{
+    font-size: 17px;
+}
+
+.home_header{
+    margin: 0 auto;
+    text-align: left;
+    width: 1200px;
+}
+
+.logo{
+    width: 300px;
+    height: 112px;
+}
+
+#contaniner {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: auto;
+    z-index: 7;
+}
+
+.tit_heading_wrap {
+    text-align: left;
+    height: 310px;
+
+}
+
+.wrap_detail_view {
+    width: 1068px;
+    height: 2400px;
+    clear: both;
+    padding-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.game_detail{
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    width: 1068px;
+    height: 60px;
+    margin-top: 30px;
+    border-bottom: 3px solid #FFA400;
+    color: #FFA400;
+}
+
+h3{
+    margin: 0 auto;
+    font-size: 36px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+strong {
+    font-weight: 500;
+}
+
+.sect_base_movie{
+    margin-top: 40px;
+}
+
+.thumb_image {
+    display: block;
+    position: relative;
+}
+
+.box-image {
+    margin-right: 30px;
+    width: 210px;
+    height: 308px;
+    float: left;
+}
+.box_contents{
+    width: 1068px;
+}
+
+.title {
+    display: block;
+    color: #fff;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 25px;
+}
+
+[class|="box_contents"] .title_p{
+    color: #fff;
+    font-size: 12px;
+}
+
+.title p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #d9d6c8;
+    padding-bottom: 10px;
+}
+
+.spec {
+    color: #fff !important;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.spec_link {
+    color : #fff  !important;
+    text-decoration: none;
+}
+
+a:visited { 
+    color:#fff; 
+}
+
+.spec_link:hover {
+    color : blue;
+    text-decoration: underline;
+}
+
+dd{
+    margin-bottom: 10px;
+}
+
+.spec dt {
+    float: left;
+}
+
+[class|="box_contents"] .spec {
+    line-height: 1.6;
+}
+
+[class|="box_contents"] .spec {
+    color: #fff;
+    font-weight: 500;
+}
+
+[class|="box_contents"] .spec .on{
+    float: none;
+}
+
+[class|="box_contents"] .spec dd{
+    white-space: normal;
+    text-overflow: clip;
+    overflow: visible;
+}
+
+.heading{
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 30px;
+    border-bottom: 1px solid #FFA400;
+    color: #FFA400;
+}
+
+.infotitle{
+    margin-bottom: 10px;
+}
+
+.game_story{
+    text-align: left;
+    color: #fff;
+}
+
+.game_info_box{
+    margin-bottom: 40px;
+}
+
+.game_videos{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.game_screenshot{
+    display: flex;
+    flex-flow : wrap;
+    justify-content: space-between;
+
+}
+
+.screensho_img{
+    height: 300px;
+    max-width:100%;
+    margin-bottom: 10px;
+}
+
